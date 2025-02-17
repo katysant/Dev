@@ -1,0 +1,10 @@
+h1, h2, p{
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+   
+    
+}
+h1,h2{
+    color: rgb(57, 146, 146);
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
