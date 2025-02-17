@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>livros</title>
+</head>
+<body>
+        <h1> Livros Favoritos</h1>
+        <h2> Livro de romance</h2>
+        <ul>
+            <li>Até o verão terminar</li>
+            <img src="001/romanceee.png" alt="Livro de romance">
+        </ul>
+        <h2> Livro de fantasia</h2>
+        <ul>
+            <li> Acotar</li>
+            <img src="001/acotarr.png" alt="livro de fantasia">
+        </ul>
+        <h2>Livro de época</h2>
+        <ul>
+            <li>Como agarrar uma herdeira</li>
+            <img src="001/epocaa.png" alt="Livro de epoca">
+        </ul>
+        
+</body>
+</html>
