@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="styleb.css">
+    <style>
+        .card {
+            border: 1px solid #090909;
+            border-radius: 20px;
+            box-shadow: 0 4px 8px rgba(3, 0, 0, 0.1);
+            padding: 10px;
+            width: 600px;
+            height: 350px;
+            margin-top: 40px;
+            margin: 20px auto;
+            
+            font-family: Montserrat;
+            background-color: #000409;
+        }
+        .card img {
+            border-radius: 10px 10px 0 0;
+            max-width: 100%;
+            height: auto;
+        }
+        .card h3 {
+           
+            font-size: 24px;
+            color: #fdfcfc;
+        }
+        .card p {
+            color: #ede6e6;
+            font-size: 14px;
+           
+        }
+        
+        
+    </style>
+<body>
+    <div class="card">
+    </header>
+    <main> 
+        
+        <h1> Eleve seu negócio digital <br> a outro nível  <strong> com um <br>Front-end de qualidade!</strong>  </h1>
+        <p>Olá! Sou Joana Santos, desenvolvedora Front-end <br> com especialidade em React, HTML e CSS. <br>Ajudo pequenos negócios e designers a colocarem <br> em prática boas <br> Vamos conversar?</p>
+       
+        
+        
+        
+        
+        <button> <a href="https://www.instagram.com/" >Instagram </a>  </button>
+        <button > <a href="https://mail.google.com/">GitHub</a></button>
+
+        
+         
+         <img src="Imagem.png" alt="imagem da desenvolvedora" class="posicionamento"
+></div>
+     
+    </main>
+    <footer ></footer>>
+     
+</body>
+</html>
