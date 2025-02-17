@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        .container{
+            display: flex;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            background-color: rgb(220, 242, 242);
+        }
+        .container img{
+            margin-right: 5px; 
+            margin-left: 200px;
+            border-radius: 10px;
+            height: 200px;
+            
+        }
+    </style>
+    <style> body {
+         display: flex; 
+        flex-direction: column; 
+        min-height: 100vh; }
+         main { flex: 1; } 
+         footer { background-color: #3f7f83; text-align: center; padding: 10px; position: relative; bottom: 0; width: 100%; } </style>
+</head>
+
+<body>
+    
+    <h1>  Filmes</h1>
+    <h2> Filmes preferidos da kat</h2>
+    <p>Meus filmes favoritos são de romance e de época </p>
+    <div class="container">
+   <ul>
+        <li> Filme de romance</li>
+            <img src="filme.romancee.jpg" alt="filme romance">
+   </ul>
+   <ul>
+        <li>Filme de época</li>
+            <img src="filme de épocaa.jpg" alt="filme época" >
+   </ul>
+   <ul>
+        <li> Filme de romance comedia</li>
+        <img src="romance22.jpg" alt="filme de comedia">
+   </ul>
+    </div>
+    <footer> Movie Kt </footer>
+</body>
+</html>
