@@ -1,0 +1,57 @@
+body {
+    background-color:rgb(250, 249, 249);
+    color:#F6F6F6;
+
+}
+
+    
+
+
+h1, p{
+    color: #F6F6F6;
+    font-size: 10px;
+   
+    font-size: 20px;
+    
+
+}
+
+strong {
+    color: #22D4FD;
+    
+}
+.r {
+    background-color: gray;
+    color: white;
+
+}
+
+
+
+.img{
+     position: absolute;
+width: 50px;
+height: 50px;
+left: 1030px;
+top: 235px;
+
+}
+button{
+    width: 70px;
+    height: 35px;
+    background-color: aqua;
+    border-radius: 10px;
+    margin-right: 0%;
+    margin-left: 50px;
+    margin-top: 50px;
+    
+}
+.posicionamento{
+position: absolute;
+width: 280px;
+height: 220px;
+left: 560px;
+top: 50px;
+margin-top: 0cm;
+
+}
